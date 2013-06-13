@@ -1,0 +1,124 @@
+2013/06/13 07:17:37 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/index.php?r=gii/module/index
+HTTP_REFERER=http://localhost/inshop/index.php?r=gii
+---
+2013/06/13 07:17:58 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/
+---
+2013/06/13 07:18:40 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/
+---
+2013/06/13 07:18:41 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/
+---
+2013/06/13 07:18:42 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/
+---
+2013/06/13 07:18:48 [error] [exception.CException] exception 'CException' with message 'Object configuration must be an array containing a "class" element.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:193
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#2 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#3 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#6 {main}
+REQUEST_URI=/inshop/
+---
+2013/06/13 07:19:16 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/index.php?r=site/page&view=about
+HTTP_REFERER=http://localhost/inshop/
+---
+2013/06/13 07:19:51 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/index.php?r=site/page&view=about
+HTTP_REFERER=http://localhost/inshop/
+---
+2013/06/13 07:19:52 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/index.php?r=site/page&view=about
+HTTP_REFERER=http://localhost/inshop/
+---
+2013/06/13 07:19:52 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/doronsegal/WebDev/yii/framework/YiiBase.php:316
+Stack trace:
+#0 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(196): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#2 /Users/doronsegal/WebDev/yii/framework/base/CModule.php(523): CModule->getComponent('bootstrap')
+#3 /Users/doronsegal/WebDev/yii/framework/base/CApplication.php(152): CModule->preloadComponents()
+#4 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(125): CApplication->__construct('/Users/doronseg...')
+#5 /Users/doronsegal/WebDev/yii/framework/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/Users/doronseg...')
+#6 /Users/doronsegal/WebDev/inshop/index.php(13): YiiBase::createWebApplication('/Users/doronseg...')
+#7 {main}
+REQUEST_URI=/inshop/index.php?r=site/page&view=about
+HTTP_REFERER=http://localhost/inshop/
+---
